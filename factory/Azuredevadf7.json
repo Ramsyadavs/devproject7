@@ -1,0 +1,15 @@
+{
+	"name": "Azuredevadf7",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29ab898b-5a38-47ce-a6a5-548e3405d308",
+		"tenantId": "2c956167-e8a4-4c96-a140-b5117e220c84"
+	}
+}
